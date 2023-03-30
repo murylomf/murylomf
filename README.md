@@ -1,4 +1,4 @@
-### Olá 👋
+### Hi 👋
 
 Here, you can find a variety of my personal projects, college assignments, and experiments with different technologies.
 
