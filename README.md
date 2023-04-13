@@ -22,7 +22,7 @@ Front-end and back-end development expertise as a software developer. proficient
 
 ### Via
 - Software Engineer (Front End) (Jul 2022 - present)
-  - Stacks: Angular, GitHub, Micro Front-End, CI/CD, Nx, RxJS, Cofluence, Jira
+  - Stacks: Angular, GitHub, Micro Front-End, CI/CD, Nx, RxJS, Confluence, Jira
 
 ## Licenses & Certifications
 - Essential Programming Logic - DIO
