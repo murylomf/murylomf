@@ -1,4 +1,4 @@
-# Murylo Matheus Firmino da Rocha
+# Murylo Matheus Firmino
 - **E-mail:** murylo.firmino1@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/murylomf
 - **GitHub:** https://github.com/murylomf
