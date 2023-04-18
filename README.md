@@ -1,7 +1,6 @@
 # Murylo Matheus Firmino
 - **E-mail:** murylo.firmino1@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/murylomf
-- **GitHub:** https://github.com/murylomf
 
 ## Summary
 Front-end and back-end development expertise as a software developer. proficient in.NET, Node.js, Vue.js, Angular, TypeScript, JavaScript, MSSQL, and other technologies. possess a working grasp of C and PHP.
