@@ -1,4 +1,4 @@
-# Murylo Matheus Firmino [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murylomf)
+# Murylo Firmino [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murylomf)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murylomf) 
