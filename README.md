@@ -11,10 +11,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=murylomf&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 </p>
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MURYLOMF)
 ---
 ## Skills
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
